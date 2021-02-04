@@ -5,3 +5,7 @@ some useful socket coding under linux
 2021-01-27
 	## collect from : https://github.com/rqycpp/socket.git
 	## add some bood codes (not included in above linkage)
+
+2021-02-04
+	add socket dir
+		add tcp sample
